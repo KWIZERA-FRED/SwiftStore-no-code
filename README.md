@@ -9,8 +9,8 @@
 | Field | Details |
 |---|---|
 | **Names** |Kwizera Iyera Fred, Byukusenge Angelique, Girimbabazi Judith|
-| **Registration number** |23718/2024, 24022/2024, 24180/2024|
-| **Role** |Tech Lead.Art director.Project Manager|
+| **Registration numbers** |23718/2024, 24022/2024, 24180/2024|
+| **Roles** |Tech Lead, Art director, Project Manager|
 | **Course** | E-Commerce And Web Application — EWA408510 |
 | **Institution** | University of Lay Adventists of Kigali (UNILAK) |
 | **Lecturer** | Mr.Eric Maniraguha |
